@@ -42,7 +42,7 @@ For the extension, I modified the program to use variables from the `.data` sect
 This task helped me understand control flow in assembly. Translating C loops (for/while) into Assembly required using comparison instructions (cmp) and jump instructions (jmp, jle, jge). I also implemented input validation to ensure the number provided by the user falls within the specific range.
 
 **Task 2 Execution Output:**
-![Task 2 Output](screenshots/output_t2.png)
+![Task 2 Output](screenshots/output_t22.png)
 *(Running ./task2)*
 
 ---
